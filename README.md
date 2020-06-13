@@ -8,7 +8,7 @@ Antic is an experimental high-performance blockchain platform that powers decent
 
 ## What are the characteristics of Antic?
 
-High-performance Byzantine fault-tolerant consensus block chain. Antic confirms a transaction every 30 seconds, one is irreversible; each block can carry out 5000 transactions, which is a good solution to the problem of block congestion. Antic uses validator to validate the reward model, which promotes the construction of community nodes.
+High-performance Byzantine fault-tolerant consensus block chain. Antic confirms a transaction every 3 seconds, one is irreversible; each block can carry out 1000000 transactions, which is a good solution to the problem of block congestion. Antic uses validator to validate the reward model, which promotes the construction of community nodes.
 
 
 ## Antic Total Amount and Distribution Model
