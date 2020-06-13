@@ -1,0 +1,24 @@
+{
+    "number": 0,
+    "coinbase": "0x0000000000000000000000000000000000000000",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "timestamp": 1590422400000,
+    "data": "antic",
+    "premine": [
+        {
+            "address": "0xa45cb072065f4837e5957a5bdbb367bced816bd8",
+            "amount": 21000000000000000,
+            "note": "community"
+        }
+    ],
+    "delegates": {
+        "antic_d1": "0x90478ab1017a7638121f70626d13a912350647cb",
+        "antic_d2": "0x661770c4bbd250b584b72e8c63d44fdb55554c2c",
+        "antic_d3": "0xa32b6edbc38f2c635de86deeaa41f076231f19f4",
+        "antic_d4": "0xb6e3a6dd9430249d6c0abb1d93e0c20210651d6d",
+        "antic_d5": "0x1b7c7791164b1bee2a3e0e2283e1ed7e48fee507"
+    },
+    "config": {
+
+    }
+}

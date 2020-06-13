@@ -1,0 +1,48 @@
+/**
+ * Copyright (c) 2019 The Antic Developers
+ *
+ * Distributed under the MIT software license, see the accompanying file
+ * LICENSE or https://opensource.org/licenses/mit-license.php
+ */
+package org.antic.cli;
+
+/**
+ * Antic launcher options.
+ */
+public enum AnticOption {
+
+    HELP("help"),
+
+    VERSION("version"),
+
+    ACCOUNT("account"),
+
+    CHANGE_PASSWORD("changepassword"),
+
+    DATA_DIR("datadir"),
+
+    COINBASE("coinbase"),
+
+    PASSWORD("password"),
+
+    DUMP_PRIVATE_KEY("dumpprivatekey"),
+
+    IMPORT_PRIVATE_KEY("importprivatekey"),
+
+    NETWORK("network"),
+
+    HD_WALLET("hdwallet"),
+
+    REINDEX("reindex");
+
+    private final String name;
+
+    AnticOption(String s) {
+        name = s;
+    }
+
+    @Override
+    public String toString() {
+        return this.name;
+    }
+}

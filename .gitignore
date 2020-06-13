@@ -1,0 +1,38 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+logs/
+.DS_Store
+output/
+*.data
+antic-core/src/gen/
+rebel.xml
+application-dev.yml
+core-test/
+core-test/pom.xml
+
+## svn ##
+.svn/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+ed25519-donna/
+libsodium/

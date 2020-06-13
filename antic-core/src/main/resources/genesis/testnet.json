@@ -1,0 +1,32 @@
+{
+    "number": 0,
+    "coinbase": "0x0000000000000000000000000000000000000000",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "timestamp": 1559925100000,
+    "data": "antic",
+    "premine": [
+        {
+            "address": "",
+            "amount": 5000000000000000,
+            "note": "founder"
+        },
+        {
+            "address": "",
+            "amount": 2000000000000000,
+            "note": "develop"
+        },
+        {
+            "address": "",
+            "amount": 2500000000000000,
+            "note": "test"
+        }
+    ],
+    "delegates": {
+        "antic_test1": "",
+        "antic_test2": "",
+        "antic_test3": ""
+    },
+    "config": {
+        
+    }
+}
