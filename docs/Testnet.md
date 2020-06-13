@@ -13,5 +13,5 @@ You can connect to the testnet via the following command
 
 ### Resources
 
-* Testnet faucet: https://www.antic.org/testnetfaucet
-* Testnet explorer: https://testnet.antic.info/
+* Testnet faucet: https://www.antic.world/testnetfaucet
+* Testnet explorer: https://testnet.antic.world/
