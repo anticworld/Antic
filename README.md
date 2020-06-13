@@ -13,7 +13,7 @@ High-performance Byzantine fault-tolerant consensus block chain. Antic confirms 
 
 ## Antic Total Amount and Distribution Model
 
-Antic has a total of 10 billion yuan and no additional issuance. 5 billion pioneers were mined and 5 billion were used as validator incentives (validator incentives for 1000 Antic blocks).
+The total scale of anti is 21 million, no additional issuance.
 
 
 ## Use of Antic
